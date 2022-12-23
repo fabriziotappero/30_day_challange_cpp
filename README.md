@@ -31,22 +31,22 @@ A void enqueueCharacter(char ch) method that enqueues a character in the instanc
 A char popCharacter() method that pops and returns the character at the top of the instance variable.
 A char dequeueCharacter() method that dequeues and returns the first character in the instance variable.
 
-    18-queueAndStack.cpp
+## DAY 19: Interfaces
+The AdvancedArithmetic interface and the method declaration for the abstract divisorSum(n) method 
+are provided for you in the editor below.
+Complete the implementation of Calculator class, which implements the AdvancedArithmetic interface. 
+The implementation for the divisorSum(n) method must return the sum of all divisors of *n*.
 
 ## DAY 21: C++ Generics
 Today we're discussing Generics. Write a single generic function named *printArray*. This 
 function must take an array of generic elements as a parameter (the exception to this 
 is C++, which takes a vector). The locked Solution class in your editor tests your function.
-
-    21-generics.cpp
     
 ## DAY 22: Binary Search Trees - Height
 The height of a binary search tree is the number of edges between the tree's root 
 and its furthest leaf. You are given a pointer, root, pointing to the root of a binary 
 search tree. Complete the getHeight function provided in your editor so that it returns 
 the height of the binary search tree.
-
-    22-binarySearchTree-height.cpp
 
 ## DAY 23: Binary Search Trees - Travers
 we're going further with Binary Search Trees. A level-order traversal, 
@@ -55,4 +55,3 @@ right, top to bottom. You are given a pointer, pointing to the root of a binary 
 tree. Complete the *levelOrder* function provided in your editor so that it prints the 
 level-order traversal of the binary search tree.
 
-    23-binarySearchTree-traversal.cpp
