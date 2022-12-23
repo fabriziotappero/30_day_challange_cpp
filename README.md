@@ -52,7 +52,7 @@ the height of the binary search tree.
 <img src="https://github.com/fabriziotappero/30_day_challange_cpp/blob/main/LongestRTL.png?raw=true" width = "30%" alt="" align=center/>
 </p>
 
-## DAY 23: Binary Search Trees - Travers
+## DAY 23: Binary Search Trees - Traversal
 we're going further with Binary Search Trees. A level-order traversal, 
 also known as a breadth-first search, visits each level of a tree's nodes from left to 
 right, top to bottom. You are given a pointer, pointing to the root of a binary search 
