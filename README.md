@@ -48,6 +48,10 @@ and its furthest leaf. You are given a pointer, root, pointing to the root of a 
 search tree. Complete the getHeight function provided in your editor so that it returns 
 the height of the binary search tree.
 
+<p align="center">
+<img src="https://github.com/fabriziotappero/30_day_challange_cpp/blob/main/LongestRTL.png?raw=true" width = "30%" alt="" align=center/>
+</p>
+
 ## DAY 23: Binary Search Trees - Travers
 we're going further with Binary Search Trees. A level-order traversal, 
 also known as a breadth-first search, visits each level of a tree's nodes from left to 
