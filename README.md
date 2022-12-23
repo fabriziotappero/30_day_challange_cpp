@@ -5,6 +5,17 @@ challange on https://www.hackerrank.com.
 
 Here are my solutions for the last 15 or so days. The first weeks are actually quite trivial.
 
+## DAY 12: Inheritance
+You are given two classes, Person and Student, where Person is the base class and Student 
+is the derived class. Completed code for Person and a declaration for Student are provided 
+for you in the editor. Observe that Student inherits all the properties of Person.
+
+## DAY 13: Abstract Classes
+Given a Book class and a Solution class, write a MyBook class that does the following:
+* Inherits from Book
+* Has a parameterized constructor taking these parameters: Title, Author, Price
+* Implements the Book class' abstract display() method so it prints these lines: Title, Author, Price
+
 ## DAY 18: Stacks and Queues
 Today we're learning about Stacks and Queues. A palindrome is a word, phrase, number, or other 
 sequence of characters which reads the same backwards and forwards. Can you determine if a given string,
