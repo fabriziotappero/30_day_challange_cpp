@@ -5,6 +5,13 @@ challange on https://www.hackerrank.com.
 
 Here are my solutions for the last 15 or so days. The first weeks are actually quite trivial.
 
+## DAY 21: C++ Generics
+Today we're discussing Generics. Write a single generic function named *printArray*. This 
+function must take an array of generic elements as a parameter (the exception to this 
+is C++, which takes a vector). The locked Solution class in your editor tests your function.
+
+    21-generics.cpp
+    
 ## DAY 22: Binary Search Trees - Height
 The height of a binary search tree is the number of edges between the tree's root 
 and its furthest leaf. You are given a pointer, root, pointing to the root of a binary 
