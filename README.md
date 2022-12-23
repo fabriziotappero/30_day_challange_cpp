@@ -56,7 +56,7 @@ tree. Complete the *levelOrder* function provided in your editor so that it prin
 level-order traversal of the binary search tree.
 
 <p align="center">
-<img src="https://github.com/fabriziotappero/30_day_challange_cpp/blob/master/BST.png?raw=true" width = "40%" alt="" align=center/>
+<img src="https://github.com/fabriziotappero/30_day_challange_cpp/blob/main/BST.png?raw=true" width = "40%" alt="" align=center/>
 </p>
 
 
