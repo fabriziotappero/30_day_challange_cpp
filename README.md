@@ -1,4 +1,4 @@
-# 30 day challange in C++
+# Hackerrank 30 Day Challange in C++
 
 If you want to really learn a programming language, a good way is to do the 30 day 
 challange on https://www.hackerrank.com.
